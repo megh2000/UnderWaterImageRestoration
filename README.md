@@ -4,6 +4,8 @@ Images captured underwater will suffer from reduced contrast and degradation bec
 
 <!-- ![Underwater and Restored Image](UnderWaterImageRestoration/sea-thru.png?raw=true "Underwater and Restored Image") -->
 ![Underwater and Restored Image](ppr4.png?raw=true "Underwater and Restored Image")
+![Underwater and Restored Image](ppr4_2.png?raw=true "Underwater and Restored Image")
+
 
 
 ## References
